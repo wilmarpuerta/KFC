@@ -1,0 +1,56 @@
+
+/* Theme dark */
+
+.theme-dark {
+    background-color: rgb(45, 45, 45);
+}
+
+.theme-dark .card{
+    background-color: rgb(106, 106, 106);
+    color: white;
+}
+
+.theme-free .card p{
+    color: rgb(235, 228, 228);
+}
+
+.theme-dark .form-select{
+    background-color: rgb(92, 92, 92);
+    color: white;
+}
+
+/* Theme light */
+
+.theme-light{
+    background-color: #f3d5a5;
+}
+
+.theme-light .card{
+    background-color: white;
+    color: black;
+}
+
+.theme-light .form-select{
+    background-color: white;
+    color: black;
+}
+
+/* Theme free */
+
+.theme-free{
+    background-color: #555231;
+}
+
+.theme-free .card{
+    background-color: #9c8c51;
+    color: white;
+}
+
+.theme-free .card p{
+    color: rgb(235, 228, 228);
+}
+
+.theme-free .form-select{
+    background-color: #9c8c51;
+    color: white;
+}
