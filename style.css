@@ -37,20 +37,20 @@
 
 /* Theme free */
 
-.theme-free{
+.theme-Brown{
     background-color: #555231;
 }
 
-.theme-free .card{
+.theme-Brown .card{
     background-color: #9c8c51;
     color: white;
 }
 
-.theme-free .card p{
+.theme-Brown .card p{
     color: rgb(235, 228, 228);
 }
 
-.theme-free .form-select{
+.theme-Brown .form-select{
     background-color: #9c8c51;
     color: white;
 }
